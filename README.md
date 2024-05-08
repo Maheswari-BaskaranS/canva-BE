@@ -23,7 +23,8 @@ now add your Git Repo
 
 ## Install Dependency
 - npm install
-
+ npm run migrate:windows:local  
+ npm run start:windows:local     
 ## Set your environment variables:
 
 ```bash
