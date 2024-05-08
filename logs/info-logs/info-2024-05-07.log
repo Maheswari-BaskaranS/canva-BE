@@ -1,0 +1,694 @@
+2024-05-07T04:49:37.130Z info: DB Connection Successful
+2024-05-07T04:49:37.134Z info: Listening to port 8000
+2024-05-07T05:37:02.984Z info: DB Connection Successful
+2024-05-07T05:37:02.990Z info: Listening to port 8000
+2024-05-07T05:37:39.666Z info: DB Connection Successful
+2024-05-07T05:37:39.671Z info: Listening to port 8000
+2024-05-07T05:37:47.868Z info: DB Connection Successful
+2024-05-07T05:37:47.877Z info: Listening to port 8000
+2024-05-07T05:37:53.773Z info: DB Connection Successful
+2024-05-07T05:37:53.778Z info: Listening to port 8000
+2024-05-07T07:33:54.855Z info: DB Connection Successful
+2024-05-07T07:33:54.861Z info: Listening to port 8000
+2024-05-07T07:39:10.536Z info: DB Connection Successful
+2024-05-07T07:39:10.540Z info: Listening to port 8000
+2024-05-07T07:40:32.670Z info: DB Connection Successful
+2024-05-07T07:40:32.675Z info: Listening to port 8000
+2024-05-07T07:40:36.336Z info: DB Connection Successful
+2024-05-07T07:40:36.340Z info: Listening to port 8000
+2024-05-07T07:41:19.442Z info: DB Connection Successful
+2024-05-07T07:41:19.447Z info: Listening to port 8000
+2024-05-07T07:41:28.943Z info: DB Connection Successful
+2024-05-07T07:41:28.948Z info: Listening to port 8000
+2024-05-07T07:41:30.277Z info: DB Connection Successful
+2024-05-07T07:41:30.281Z info: Listening to port 8000
+2024-05-07T07:41:32.140Z info: DB Connection Successful
+2024-05-07T07:41:32.145Z info: Listening to port 8000
+2024-05-07T07:41:40.136Z info: DB Connection Successful
+2024-05-07T07:41:40.140Z info: Listening to port 8000
+2024-05-07T07:41:46.756Z info: DB Connection Successful
+2024-05-07T07:41:46.760Z info: Listening to port 8000
+2024-05-07T07:41:49.373Z info: DB Connection Successful
+2024-05-07T07:41:49.378Z info: Listening to port 8000
+2024-05-07T07:41:50.532Z info: DB Connection Successful
+2024-05-07T07:41:50.537Z info: Listening to port 8000
+2024-05-07T07:41:53.253Z info: DB Connection Successful
+2024-05-07T07:41:53.258Z info: Listening to port 8000
+2024-05-07T07:42:08.688Z info: DB Connection Successful
+2024-05-07T07:42:08.695Z info: Listening to port 8000
+2024-05-07T07:43:38.710Z info: DB Connection Successful
+2024-05-07T07:43:38.716Z info: Listening to port 8000
+2024-05-07T07:43:43.269Z info: DB Connection Successful
+2024-05-07T07:43:43.275Z info: Listening to port 8000
+2024-05-07T07:44:14.714Z info: DB Connection Successful
+2024-05-07T07:44:14.719Z info: Listening to port 8000
+2024-05-07T07:51:54.949Z info: DB Connection Successful
+2024-05-07T07:51:54.954Z info: Listening to port 8000
+2024-05-07T07:52:02.277Z info: DB Connection Successful
+2024-05-07T07:52:02.281Z info: Listening to port 8000
+2024-05-07T07:52:05.463Z info: DB Connection Successful
+2024-05-07T07:52:05.469Z info: Listening to port 8000
+2024-05-07T07:52:10.392Z info: DB Connection Successful
+2024-05-07T07:52:10.396Z info: Listening to port 8000
+2024-05-07T07:52:30.504Z info: DB Connection Successful
+2024-05-07T07:52:30.508Z info: Listening to port 8000
+2024-05-07T07:56:16.844Z info: DB Connection Successful
+2024-05-07T07:56:16.849Z info: Listening to port 8000
+2024-05-07T07:56:19.840Z info: DB Connection Successful
+2024-05-07T07:56:19.844Z info: Listening to port 8000
+2024-05-07T07:56:26.000Z info: DB Connection Successful
+2024-05-07T07:56:26.005Z info: Listening to port 8000
+2024-05-07T07:56:50.405Z info: DB Connection Successful
+2024-05-07T07:56:50.410Z info: Listening to port 8000
+2024-05-07T07:56:59.749Z info: DB Connection Successful
+2024-05-07T07:56:59.753Z info: Listening to port 8000
+2024-05-07T07:57:02.247Z info: DB Connection Successful
+2024-05-07T07:57:02.253Z info: Listening to port 8000
+2024-05-07T07:57:19.200Z info: DB Connection Successful
+2024-05-07T07:57:19.205Z info: Listening to port 8000
+2024-05-07T07:57:22.273Z info: DB Connection Successful
+2024-05-07T07:57:22.278Z info: Listening to port 8000
+2024-05-07T07:57:25.453Z info: DB Connection Successful
+2024-05-07T07:57:25.458Z info: Listening to port 8000
+2024-05-07T07:57:26.727Z info: DB Connection Successful
+2024-05-07T07:57:26.733Z info: Listening to port 8000
+2024-05-07T07:57:57.017Z info: DB Connection Successful
+2024-05-07T07:57:57.023Z info: Listening to port 8000
+2024-05-07T07:58:12.114Z info: DB Connection Successful
+2024-05-07T07:58:12.119Z info: Listening to port 8000
+2024-05-07T07:58:13.323Z info: DB Connection Successful
+2024-05-07T07:58:13.328Z info: Listening to port 8000
+2024-05-07T07:58:25.098Z info: DB Connection Successful
+2024-05-07T07:58:25.103Z info: Listening to port 8000
+2024-05-07T07:58:29.607Z info: DB Connection Successful
+2024-05-07T07:58:29.611Z info: Listening to port 8000
+2024-05-07T08:00:11.423Z info: DB Connection Successful
+2024-05-07T08:00:11.429Z info: Listening to port 8000
+2024-05-07T08:00:38.169Z info: DB Connection Successful
+2024-05-07T08:00:38.173Z info: Listening to port 8000
+2024-05-07T08:00:54.246Z info: DB Connection Successful
+2024-05-07T08:00:54.250Z info: Listening to port 8000
+2024-05-07T08:03:51.839Z info: DB Connection Successful
+2024-05-07T08:03:51.844Z info: Listening to port 8000
+2024-05-07T08:04:22.236Z info: DB Connection Successful
+2024-05-07T08:04:22.241Z info: Listening to port 8000
+2024-05-07T08:05:09.438Z info: DB Connection Successful
+2024-05-07T08:05:09.443Z info: Listening to port 8000
+2024-05-07T08:10:14.050Z info: DB Connection Successful
+2024-05-07T08:10:14.055Z info: Listening to port 8000
+2024-05-07T08:10:15.159Z info: DB Connection Successful
+2024-05-07T08:10:15.165Z info: Listening to port 8000
+2024-05-07T08:10:16.833Z info: DB Connection Successful
+2024-05-07T08:10:16.838Z info: Listening to port 8000
+2024-05-07T08:10:18.971Z info: DB Connection Successful
+2024-05-07T08:10:18.976Z info: Listening to port 8000
+2024-05-07T08:10:37.345Z info: DB Connection Successful
+2024-05-07T08:10:37.349Z info: Listening to port 8000
+2024-05-07T08:15:18.697Z info: DB Connection Successful
+2024-05-07T08:15:18.702Z info: Listening to port 8000
+2024-05-07T08:15:42.068Z info: DB Connection Successful
+2024-05-07T08:15:42.072Z info: Listening to port 8000
+2024-05-07T08:16:08.560Z info: DB Connection Successful
+2024-05-07T08:16:08.565Z info: Listening to port 8000
+2024-05-07T09:32:23.393Z info: DB Connection Successful
+2024-05-07T09:32:23.397Z info: Listening to port 8000
+2024-05-07T09:32:27.383Z info: DB Connection Successful
+2024-05-07T09:32:27.390Z info: Listening to port 8000
+2024-05-07T09:33:44.458Z info: DB Connection Successful
+2024-05-07T09:33:44.463Z info: Listening to port 8000
+2024-05-07T09:35:00.610Z info: DB Connection Successful
+2024-05-07T09:35:00.617Z info: Listening to port 8000
+2024-05-07T09:35:02.947Z info: DB Connection Successful
+2024-05-07T09:35:02.951Z info: Listening to port 8000
+2024-05-07T09:35:25.522Z info: DB Connection Successful
+2024-05-07T09:35:25.526Z info: Listening to port 8000
+2024-05-07T09:35:28.424Z info: DB Connection Successful
+2024-05-07T09:35:28.428Z info: Listening to port 8000
+2024-05-07T09:35:30.310Z info: DB Connection Successful
+2024-05-07T09:35:30.315Z info: Listening to port 8000
+2024-05-07T09:35:45.595Z info: DB Connection Successful
+2024-05-07T09:35:45.600Z info: Listening to port 8000
+2024-05-07T09:35:48.576Z info: DB Connection Successful
+2024-05-07T09:35:48.582Z info: Listening to port 8000
+2024-05-07T09:35:50.983Z info: DB Connection Successful
+2024-05-07T09:35:50.988Z info: Listening to port 8000
+2024-05-07T09:35:52.342Z info: DB Connection Successful
+2024-05-07T09:35:52.347Z info: Listening to port 8000
+2024-05-07T09:35:56.109Z info: DB Connection Successful
+2024-05-07T09:35:56.114Z info: Listening to port 8000
+2024-05-07T09:35:57.322Z info: DB Connection Successful
+2024-05-07T09:35:57.327Z info: Listening to port 8000
+2024-05-07T09:36:02.158Z info: DB Connection Successful
+2024-05-07T09:36:02.162Z info: Listening to port 8000
+2024-05-07T09:36:07.866Z info: DB Connection Successful
+2024-05-07T09:36:07.871Z info: Listening to port 8000
+2024-05-07T09:36:49.062Z info: DB Connection Successful
+2024-05-07T09:36:49.067Z info: Listening to port 8000
+2024-05-07T09:36:50.236Z info: DB Connection Successful
+2024-05-07T09:36:50.242Z info: Listening to port 8000
+2024-05-07T09:38:12.850Z info: DB Connection Successful
+2024-05-07T09:38:12.857Z info: Listening to port 8000
+2024-05-07T09:38:21.267Z info: DB Connection Successful
+2024-05-07T09:38:21.272Z info: Listening to port 8000
+2024-05-07T09:38:23.302Z info: DB Connection Successful
+2024-05-07T09:38:23.307Z info: Listening to port 8000
+2024-05-07T09:38:28.079Z info: DB Connection Successful
+2024-05-07T09:38:28.084Z info: Listening to port 8000
+2024-05-07T09:38:29.664Z info: DB Connection Successful
+2024-05-07T09:38:29.670Z info: Listening to port 8000
+2024-05-07T09:38:31.137Z info: DB Connection Successful
+2024-05-07T09:38:31.142Z info: Listening to port 8000
+2024-05-07T09:38:32.556Z info: DB Connection Successful
+2024-05-07T09:38:32.561Z info: Listening to port 8000
+2024-05-07T09:38:35.772Z info: DB Connection Successful
+2024-05-07T09:38:35.778Z info: Listening to port 8000
+2024-05-07T09:38:43.233Z info: DB Connection Successful
+2024-05-07T09:38:43.239Z info: Listening to port 8000
+2024-05-07T09:39:32.011Z info: DB Connection Successful
+2024-05-07T09:39:32.016Z info: Listening to port 8000
+2024-05-07T09:39:34.868Z info: DB Connection Successful
+2024-05-07T09:39:34.872Z info: Listening to port 8000
+2024-05-07T09:39:52.030Z info: DB Connection Successful
+2024-05-07T09:39:52.034Z info: Listening to port 8000
+2024-05-07T09:40:00.935Z info: DB Connection Successful
+2024-05-07T09:40:00.940Z info: Listening to port 8000
+2024-05-07T09:40:02.679Z info: DB Connection Successful
+2024-05-07T09:40:02.684Z info: Listening to port 8000
+2024-05-07T09:40:07.458Z info: DB Connection Successful
+2024-05-07T09:40:07.463Z info: Listening to port 8000
+2024-05-07T09:43:05.332Z info: DB Connection Successful
+2024-05-07T09:43:05.337Z info: Listening to port 8000
+2024-05-07T09:43:31.994Z info: DB Connection Successful
+2024-05-07T09:43:31.999Z info: Listening to port 8000
+2024-05-07T09:43:50.733Z info: DB Connection Successful
+2024-05-07T09:43:50.739Z info: Listening to port 8000
+2024-05-07T09:43:53.079Z info: DB Connection Successful
+2024-05-07T09:43:53.084Z info: Listening to port 8000
+2024-05-07T09:43:54.165Z info: DB Connection Successful
+2024-05-07T09:43:54.170Z info: Listening to port 8000
+2024-05-07T09:43:56.072Z info: DB Connection Successful
+2024-05-07T09:43:56.076Z info: Listening to port 8000
+2024-05-07T09:43:57.279Z info: DB Connection Successful
+2024-05-07T09:43:57.285Z info: Listening to port 8000
+2024-05-07T09:44:18.323Z info: DB Connection Successful
+2024-05-07T09:44:18.328Z info: Listening to port 8000
+2024-05-07T09:44:22.830Z info: DB Connection Successful
+2024-05-07T09:44:22.835Z info: Listening to port 8000
+2024-05-07T09:44:24.946Z info: DB Connection Successful
+2024-05-07T09:44:24.951Z info: Listening to port 8000
+2024-05-07T09:44:26.921Z info: DB Connection Successful
+2024-05-07T09:44:26.925Z info: Listening to port 8000
+2024-05-07T09:44:37.654Z info: DB Connection Successful
+2024-05-07T09:44:37.659Z info: Listening to port 8000
+2024-05-07T09:46:20.840Z info: DB Connection Successful
+2024-05-07T09:46:20.845Z info: Listening to port 8000
+2024-05-07T09:46:27.830Z info: DB Connection Successful
+2024-05-07T09:46:27.835Z info: Listening to port 8000
+2024-05-07T09:48:18.193Z info: DB Connection Successful
+2024-05-07T09:48:18.198Z info: Listening to port 8000
+2024-05-07T09:48:44.334Z info: DB Connection Successful
+2024-05-07T09:48:44.350Z info: Listening to port 8000
+2024-05-07T09:48:54.314Z info: DB Connection Successful
+2024-05-07T09:48:54.319Z info: Listening to port 8000
+2024-05-07T09:49:00.528Z info: DB Connection Successful
+2024-05-07T09:49:00.533Z info: Listening to port 8000
+2024-05-07T09:49:04.447Z info: DB Connection Successful
+2024-05-07T09:49:04.452Z info: Listening to port 8000
+2024-05-07T09:49:07.381Z info: DB Connection Successful
+2024-05-07T09:49:07.386Z info: Listening to port 8000
+2024-05-07T09:49:12.045Z info: DB Connection Successful
+2024-05-07T09:49:12.049Z info: Listening to port 8000
+2024-05-07T09:49:44.263Z info: DB Connection Successful
+2024-05-07T09:49:44.274Z info: Listening to port 8000
+2024-05-07T09:49:56.689Z info: DB Connection Successful
+2024-05-07T09:49:56.694Z info: Listening to port 8000
+2024-05-07T09:50:43.727Z info: DB Connection Successful
+2024-05-07T09:50:43.732Z info: Listening to port 8000
+2024-05-07T09:52:13.799Z info: DB Connection Successful
+2024-05-07T09:52:13.803Z info: Listening to port 8000
+2024-05-07T09:52:31.418Z info: DB Connection Successful
+2024-05-07T09:52:31.425Z info: Listening to port 8000
+2024-05-07T09:52:34.337Z info: DB Connection Successful
+2024-05-07T09:52:34.341Z info: Listening to port 8000
+2024-05-07T09:52:36.280Z info: DB Connection Successful
+2024-05-07T09:52:36.284Z info: Listening to port 8000
+2024-05-07T09:53:01.320Z info: DB Connection Successful
+2024-05-07T09:53:01.326Z info: Listening to port 8000
+2024-05-07T09:54:04.015Z info: DB Connection Successful
+2024-05-07T09:54:04.021Z info: Listening to port 8000
+2024-05-07T09:54:08.510Z info: DB Connection Successful
+2024-05-07T09:54:08.515Z info: Listening to port 8000
+2024-05-07T09:55:19.136Z info: DB Connection Successful
+2024-05-07T09:55:19.140Z info: Listening to port 8000
+2024-05-07T09:55:37.307Z info: DB Connection Successful
+2024-05-07T09:55:37.311Z info: Listening to port 8000
+2024-05-07T09:56:23.731Z info: DB Connection Successful
+2024-05-07T09:56:23.736Z info: Listening to port 8000
+2024-05-07T09:58:43.865Z info: DB Connection Successful
+2024-05-07T09:58:43.870Z info: Listening to port 8000
+2024-05-07T10:05:19.213Z info: DB Connection Successful
+2024-05-07T10:05:19.223Z info: Listening to port 8000
+2024-05-07T10:13:02.644Z info: DB Connection Successful
+2024-05-07T10:13:02.649Z info: Listening to port 8000
+2024-05-07T10:15:36.083Z info: DB Connection Successful
+2024-05-07T10:15:36.088Z info: Listening to port 8000
+2024-05-07T10:15:42.600Z info: DB Connection Successful
+2024-05-07T10:15:42.605Z info: Listening to port 8000
+2024-05-07T10:15:52.828Z info: DB Connection Successful
+2024-05-07T10:15:52.833Z info: Listening to port 8000
+2024-05-07T10:16:13.630Z info: DB Connection Successful
+2024-05-07T10:16:13.635Z info: Listening to port 8000
+2024-05-07T10:16:19.678Z info: DB Connection Successful
+2024-05-07T10:16:19.683Z info: Listening to port 8000
+2024-05-07T10:19:11.522Z info: DB Connection Successful
+2024-05-07T10:19:11.527Z info: Listening to port 8000
+2024-05-07T10:20:11.761Z info: DB Connection Successful
+2024-05-07T10:20:11.765Z info: Listening to port 8000
+2024-05-07T10:20:22.426Z info: DB Connection Successful
+2024-05-07T10:20:22.431Z info: Listening to port 8000
+2024-05-07T10:20:30.434Z info: DB Connection Successful
+2024-05-07T10:20:30.439Z info: Listening to port 8000
+2024-05-07T10:20:31.293Z info: DB Connection Successful
+2024-05-07T10:20:31.298Z info: Listening to port 8000
+2024-05-07T10:21:07.442Z info: DB Connection Successful
+2024-05-07T10:21:07.447Z info: Listening to port 8000
+2024-05-07T10:21:10.599Z info: DB Connection Successful
+2024-05-07T10:21:10.604Z info: Listening to port 8000
+2024-05-07T10:22:44.499Z info: DB Connection Successful
+2024-05-07T10:22:44.504Z info: Listening to port 8000
+2024-05-07T10:22:45.814Z info: DB Connection Successful
+2024-05-07T10:22:45.818Z info: Listening to port 8000
+2024-05-07T10:25:16.414Z info: DB Connection Successful
+2024-05-07T10:25:16.419Z info: Listening to port 8000
+2024-05-07T10:25:22.944Z info: DB Connection Successful
+2024-05-07T10:25:22.949Z info: Listening to port 8000
+2024-05-07T10:25:37.344Z info: DB Connection Successful
+2024-05-07T10:25:37.349Z info: Listening to port 8000
+2024-05-07T10:25:40.704Z info: DB Connection Successful
+2024-05-07T10:25:40.708Z info: Listening to port 8000
+2024-05-07T10:25:42.920Z info: DB Connection Successful
+2024-05-07T10:25:42.925Z info: Listening to port 8000
+2024-05-07T10:25:45.201Z info: DB Connection Successful
+2024-05-07T10:25:45.205Z info: Listening to port 8000
+2024-05-07T10:25:47.822Z info: DB Connection Successful
+2024-05-07T10:25:47.827Z info: Listening to port 8000
+2024-05-07T10:25:55.956Z info: DB Connection Successful
+2024-05-07T10:25:55.960Z info: Listening to port 8000
+2024-05-07T10:26:01.645Z info: DB Connection Successful
+2024-05-07T10:26:01.649Z info: Listening to port 8000
+2024-05-07T10:26:05.874Z info: DB Connection Successful
+2024-05-07T10:26:05.879Z info: Listening to port 8000
+2024-05-07T10:26:12.177Z info: DB Connection Successful
+2024-05-07T10:26:12.181Z info: Listening to port 8000
+2024-05-07T10:28:48.286Z info: DB Connection Successful
+2024-05-07T10:28:48.290Z info: Listening to port 8000
+2024-05-07T10:29:31.388Z info: DB Connection Successful
+2024-05-07T10:29:31.393Z info: Listening to port 8000
+2024-05-07T10:29:38.158Z info: DB Connection Successful
+2024-05-07T10:29:38.163Z info: Listening to port 8000
+2024-05-07T10:31:43.736Z info: DB Connection Successful
+2024-05-07T10:31:43.740Z info: Listening to port 8000
+2024-05-07T10:31:59.212Z info: DB Connection Successful
+2024-05-07T10:31:59.219Z info: Listening to port 8000
+2024-05-07T10:32:00.107Z info: DB Connection Successful
+2024-05-07T10:32:00.112Z info: Listening to port 8000
+2024-05-07T10:32:10.264Z info: DB Connection Successful
+2024-05-07T10:32:10.269Z info: Listening to port 8000
+2024-05-07T10:41:48.604Z info: DB Connection Successful
+2024-05-07T10:41:48.609Z info: Listening to port 8000
+2024-05-07T10:42:48.757Z info: DB Connection Successful
+2024-05-07T10:42:48.762Z info: Listening to port 8000
+2024-05-07T10:43:21.374Z info: DB Connection Successful
+2024-05-07T10:43:21.379Z info: Listening to port 8000
+2024-05-07T10:43:36.379Z info: DB Connection Successful
+2024-05-07T10:43:36.384Z info: Listening to port 8000
+2024-05-07T10:43:46.669Z info: DB Connection Successful
+2024-05-07T10:43:46.674Z info: Listening to port 8000
+2024-05-07T10:43:49.307Z info: DB Connection Successful
+2024-05-07T10:43:49.312Z info: Listening to port 8000
+2024-05-07T10:44:07.106Z info: DB Connection Successful
+2024-05-07T10:44:07.111Z info: Listening to port 8000
+2024-05-07T10:44:11.735Z info: DB Connection Successful
+2024-05-07T10:44:11.740Z info: Listening to port 8000
+2024-05-07T10:44:16.170Z info: DB Connection Successful
+2024-05-07T10:44:16.175Z info: Listening to port 8000
+2024-05-07T10:46:37.886Z info: DB Connection Successful
+2024-05-07T10:46:37.890Z info: Listening to port 8000
+2024-05-07T10:46:40.325Z info: DB Connection Successful
+2024-05-07T10:46:40.331Z info: Listening to port 8000
+2024-05-07T10:47:52.053Z info: DB Connection Successful
+2024-05-07T10:47:52.058Z info: Listening to port 8000
+2024-05-07T10:48:00.936Z info: DB Connection Successful
+2024-05-07T10:48:00.941Z info: Listening to port 8000
+2024-05-07T10:48:10.118Z info: DB Connection Successful
+2024-05-07T10:48:10.123Z info: Listening to port 8000
+2024-05-07T10:48:38.711Z info: DB Connection Successful
+2024-05-07T10:48:38.716Z info: Listening to port 8000
+2024-05-07T10:48:56.419Z info: DB Connection Successful
+2024-05-07T10:48:56.424Z info: Listening to port 8000
+2024-05-07T10:49:17.269Z info: DB Connection Successful
+2024-05-07T10:49:17.274Z info: Listening to port 8000
+2024-05-07T10:49:25.730Z info: DB Connection Successful
+2024-05-07T10:49:25.735Z info: Listening to port 8000
+2024-05-07T10:49:27.294Z info: DB Connection Successful
+2024-05-07T10:49:27.300Z info: Listening to port 8000
+2024-05-07T10:49:30.826Z info: DB Connection Successful
+2024-05-07T10:49:30.831Z info: Listening to port 8000
+2024-05-07T10:49:33.881Z info: DB Connection Successful
+2024-05-07T10:49:33.886Z info: Listening to port 8000
+2024-05-07T10:49:37.196Z info: DB Connection Successful
+2024-05-07T10:49:37.200Z info: Listening to port 8000
+2024-05-07T10:49:51.224Z info: DB Connection Successful
+2024-05-07T10:49:51.229Z info: Listening to port 8000
+2024-05-07T10:49:54.583Z info: DB Connection Successful
+2024-05-07T10:49:54.588Z info: Listening to port 8000
+2024-05-07T10:50:18.304Z info: DB Connection Successful
+2024-05-07T10:50:18.309Z info: Listening to port 8000
+2024-05-07T10:50:24.187Z info: DB Connection Successful
+2024-05-07T10:50:24.192Z info: Listening to port 8000
+2024-05-07T10:50:48.896Z info: DB Connection Successful
+2024-05-07T10:50:48.903Z info: Listening to port 8000
+2024-05-07T10:50:51.289Z info: DB Connection Successful
+2024-05-07T10:50:51.295Z info: Listening to port 8000
+2024-05-07T10:50:52.621Z info: DB Connection Successful
+2024-05-07T10:50:52.626Z info: Listening to port 8000
+2024-05-07T10:50:58.563Z info: DB Connection Successful
+2024-05-07T10:50:58.567Z info: Listening to port 8000
+2024-05-07T10:51:01.303Z info: DB Connection Successful
+2024-05-07T10:51:01.307Z info: Listening to port 8000
+2024-05-07T10:51:12.772Z info: DB Connection Successful
+2024-05-07T10:51:12.777Z info: Listening to port 8000
+2024-05-07T10:51:14.287Z info: DB Connection Successful
+2024-05-07T10:51:14.291Z info: Listening to port 8000
+2024-05-07T10:51:58.968Z info: DB Connection Successful
+2024-05-07T10:51:58.973Z info: Listening to port 8000
+2024-05-07T10:52:02.761Z info: DB Connection Successful
+2024-05-07T10:52:02.765Z info: Listening to port 8000
+2024-05-07T10:52:06.360Z info: DB Connection Successful
+2024-05-07T10:52:06.365Z info: Listening to port 8000
+2024-05-07T10:52:10.582Z info: DB Connection Successful
+2024-05-07T10:52:10.587Z info: Listening to port 8000
+2024-05-07T10:54:49.011Z info: DB Connection Successful
+2024-05-07T10:54:49.016Z info: Listening to port 8000
+2024-05-07T10:55:15.173Z info: DB Connection Successful
+2024-05-07T10:55:15.177Z info: Listening to port 8000
+2024-05-07T10:55:48.582Z info: DB Connection Successful
+2024-05-07T10:55:48.588Z info: Listening to port 8000
+2024-05-07T10:57:16.417Z info: DB Connection Successful
+2024-05-07T10:57:16.421Z info: Listening to port 8000
+2024-05-07T10:57:18.102Z info: DB Connection Successful
+2024-05-07T10:57:18.107Z info: Listening to port 8000
+2024-05-07T10:57:20.883Z info: DB Connection Successful
+2024-05-07T10:57:20.887Z info: Listening to port 8000
+2024-05-07T10:57:44.341Z info: DB Connection Successful
+2024-05-07T10:57:44.347Z info: Listening to port 8000
+2024-05-07T10:57:45.781Z info: DB Connection Successful
+2024-05-07T10:57:45.785Z info: Listening to port 8000
+2024-05-07T10:57:49.127Z info: DB Connection Successful
+2024-05-07T10:57:49.132Z info: Listening to port 8000
+2024-05-07T10:58:09.277Z info: DB Connection Successful
+2024-05-07T10:58:09.281Z info: Listening to port 8000
+2024-05-07T10:59:55.216Z info: DB Connection Successful
+2024-05-07T10:59:55.221Z info: Listening to port 8000
+2024-05-07T11:00:01.645Z info: DB Connection Successful
+2024-05-07T11:00:01.650Z info: Listening to port 8000
+2024-05-07T11:00:03.266Z info: DB Connection Successful
+2024-05-07T11:00:03.271Z info: Listening to port 8000
+2024-05-07T11:00:05.004Z info: DB Connection Successful
+2024-05-07T11:00:05.008Z info: Listening to port 8000
+2024-05-07T11:00:09.381Z info: DB Connection Successful
+2024-05-07T11:00:09.385Z info: Listening to port 8000
+2024-05-07T11:00:12.338Z info: DB Connection Successful
+2024-05-07T11:00:12.343Z info: Listening to port 8000
+2024-05-07T11:05:55.250Z info: DB Connection Successful
+2024-05-07T11:05:55.256Z info: Listening to port 8000
+2024-05-07T11:05:59.495Z info: DB Connection Successful
+2024-05-07T11:05:59.500Z info: Listening to port 8000
+2024-05-07T11:13:13.443Z info: DB Connection Successful
+2024-05-07T11:13:13.448Z info: Listening to port 8000
+2024-05-07T11:13:15.156Z info: DB Connection Successful
+2024-05-07T11:13:15.161Z info: Listening to port 8000
+2024-05-07T11:13:43.976Z info: DB Connection Successful
+2024-05-07T11:13:43.981Z info: Listening to port 8000
+2024-05-07T11:13:46.350Z info: DB Connection Successful
+2024-05-07T11:13:46.355Z info: Listening to port 8000
+2024-05-07T11:13:47.895Z info: DB Connection Successful
+2024-05-07T11:13:47.899Z info: Listening to port 8000
+2024-05-07T11:13:50.441Z info: DB Connection Successful
+2024-05-07T11:13:50.445Z info: Listening to port 8000
+2024-05-07T11:14:25.767Z info: DB Connection Successful
+2024-05-07T11:14:25.772Z info: Listening to port 8000
+2024-05-07T11:14:40.225Z info: DB Connection Successful
+2024-05-07T11:14:40.229Z info: Listening to port 8000
+2024-05-07T11:16:00.820Z info: DB Connection Successful
+2024-05-07T11:16:00.825Z info: Listening to port 8000
+2024-05-07T11:16:16.631Z info: DB Connection Successful
+2024-05-07T11:16:16.635Z info: Listening to port 8000
+2024-05-07T11:16:18.322Z info: DB Connection Successful
+2024-05-07T11:16:18.327Z info: Listening to port 8000
+2024-05-07T11:16:20.762Z info: DB Connection Successful
+2024-05-07T11:16:20.766Z info: Listening to port 8000
+2024-05-07T11:16:33.502Z info: DB Connection Successful
+2024-05-07T11:16:33.507Z info: Listening to port 8000
+2024-05-07T11:16:36.828Z info: DB Connection Successful
+2024-05-07T11:16:36.833Z info: Listening to port 8000
+2024-05-07T11:16:38.070Z info: DB Connection Successful
+2024-05-07T11:16:38.074Z info: Listening to port 8000
+2024-05-07T11:16:43.712Z info: DB Connection Successful
+2024-05-07T11:16:43.717Z info: Listening to port 8000
+2024-05-07T11:16:46.053Z info: DB Connection Successful
+2024-05-07T11:16:46.059Z info: Listening to port 8000
+2024-05-07T11:17:19.533Z info: DB Connection Successful
+2024-05-07T11:17:19.538Z info: Listening to port 8000
+2024-05-07T11:17:27.009Z info: DB Connection Successful
+2024-05-07T11:17:27.014Z info: Listening to port 8000
+2024-05-07T11:18:12.206Z info: DB Connection Successful
+2024-05-07T11:18:12.210Z info: Listening to port 8000
+2024-05-07T11:18:28.023Z info: DB Connection Successful
+2024-05-07T11:18:28.027Z info: Listening to port 8000
+2024-05-07T11:18:39.140Z info: DB Connection Successful
+2024-05-07T11:18:39.146Z info: Listening to port 8000
+2024-05-07T11:18:51.008Z info: DB Connection Successful
+2024-05-07T11:18:51.013Z info: Listening to port 8000
+2024-05-07T11:36:39.953Z info: DB Connection Successful
+2024-05-07T11:36:39.958Z info: Listening to port 8000
+2024-05-07T11:40:02.928Z info: DB Connection Successful
+2024-05-07T11:40:02.932Z info: Listening to port 8000
+2024-05-07T11:45:47.952Z info: DB Connection Successful
+2024-05-07T11:45:47.958Z info: Listening to port 8000
+2024-05-07T11:45:52.415Z info: DB Connection Successful
+2024-05-07T11:45:52.420Z info: Listening to port 8000
+2024-05-07T11:49:30.201Z info: DB Connection Successful
+2024-05-07T11:49:30.212Z info: Listening to port 8000
+2024-05-07T11:49:33.246Z info: DB Connection Successful
+2024-05-07T11:49:33.251Z info: Listening to port 8000
+2024-05-07T11:50:50.229Z info: DB Connection Successful
+2024-05-07T11:50:50.234Z info: Listening to port 8000
+2024-05-07T11:50:59.028Z info: DB Connection Successful
+2024-05-07T11:50:59.032Z info: Listening to port 8000
+2024-05-07T11:51:00.846Z info: DB Connection Successful
+2024-05-07T11:51:00.851Z info: Listening to port 8000
+2024-05-07T11:51:02.910Z info: DB Connection Successful
+2024-05-07T11:51:02.915Z info: Listening to port 8000
+2024-05-07T11:51:06.549Z info: DB Connection Successful
+2024-05-07T11:51:06.554Z info: Listening to port 8000
+2024-05-07T11:51:07.452Z info: DB Connection Successful
+2024-05-07T11:51:07.457Z info: Listening to port 8000
+2024-05-07T11:51:11.727Z info: DB Connection Successful
+2024-05-07T11:51:11.732Z info: Listening to port 8000
+2024-05-07T11:52:56.355Z info: DB Connection Successful
+2024-05-07T11:52:56.359Z info: Listening to port 8000
+2024-05-07T11:52:59.981Z info: DB Connection Successful
+2024-05-07T11:52:59.986Z info: Listening to port 8000
+2024-05-07T11:53:33.563Z info: DB Connection Successful
+2024-05-07T11:53:33.567Z info: Listening to port 8000
+2024-05-07T11:53:36.162Z info: DB Connection Successful
+2024-05-07T11:53:36.166Z info: Listening to port 8000
+2024-05-07T11:54:03.463Z info: DB Connection Successful
+2024-05-07T11:54:03.468Z info: Listening to port 8000
+2024-05-07T11:54:43.700Z info: DB Connection Successful
+2024-05-07T11:54:43.704Z info: Listening to port 8000
+2024-05-07T11:54:46.010Z info: DB Connection Successful
+2024-05-07T11:54:46.014Z info: Listening to port 8000
+2024-05-07T11:54:48.699Z info: DB Connection Successful
+2024-05-07T11:54:48.703Z info: Listening to port 8000
+2024-05-07T11:54:51.692Z info: DB Connection Successful
+2024-05-07T11:54:51.697Z info: Listening to port 8000
+2024-05-07T11:54:53.502Z info: DB Connection Successful
+2024-05-07T11:54:53.508Z info: Listening to port 8000
+2024-05-07T11:54:55.587Z info: DB Connection Successful
+2024-05-07T11:54:55.591Z info: Listening to port 8000
+2024-05-07T11:57:09.035Z info: DB Connection Successful
+2024-05-07T11:57:09.043Z info: Listening to port 8000
+2024-05-07T11:57:11.294Z info: DB Connection Successful
+2024-05-07T11:57:11.299Z info: Listening to port 8000
+2024-05-07T11:58:22.767Z info: DB Connection Successful
+2024-05-07T11:58:22.771Z info: Listening to port 8000
+2024-05-07T11:58:38.864Z info: DB Connection Successful
+2024-05-07T11:58:38.869Z info: Listening to port 8000
+2024-05-07T11:59:01.532Z info: DB Connection Successful
+2024-05-07T11:59:01.537Z info: Listening to port 8000
+2024-05-07T11:59:04.033Z info: DB Connection Successful
+2024-05-07T11:59:04.043Z info: Listening to port 8000
+2024-05-07T12:00:28.180Z info: DB Connection Successful
+2024-05-07T12:00:28.185Z info: Listening to port 8000
+2024-05-07T12:00:33.067Z info: DB Connection Successful
+2024-05-07T12:00:33.072Z info: Listening to port 8000
+2024-05-07T12:01:41.164Z info: DB Connection Successful
+2024-05-07T12:01:41.177Z info: Listening to port 8000
+2024-05-07T12:01:48.890Z info: DB Connection Successful
+2024-05-07T12:01:48.894Z info: Listening to port 8000
+2024-05-07T12:01:50.078Z info: DB Connection Successful
+2024-05-07T12:01:50.083Z info: Listening to port 8000
+2024-05-07T12:01:53.518Z info: DB Connection Successful
+2024-05-07T12:01:53.523Z info: Listening to port 8000
+2024-05-07T12:01:54.282Z info: DB Connection Successful
+2024-05-07T12:01:54.287Z info: Listening to port 8000
+2024-05-07T12:10:03.273Z info: DB Connection Successful
+2024-05-07T12:10:03.278Z info: Listening to port 8000
+2024-05-07T12:10:20.059Z info: DB Connection Successful
+2024-05-07T12:10:20.064Z info: Listening to port 8000
+2024-05-07T12:10:32.096Z info: DB Connection Successful
+2024-05-07T12:10:32.102Z info: Listening to port 8000
+2024-05-07T12:10:43.984Z info: DB Connection Successful
+2024-05-07T12:10:43.989Z info: Listening to port 8000
+2024-05-07T12:10:45.481Z info: DB Connection Successful
+2024-05-07T12:10:45.485Z info: Listening to port 8000
+2024-05-07T12:10:47.890Z info: DB Connection Successful
+2024-05-07T12:10:47.895Z info: Listening to port 8000
+2024-05-07T12:10:58.461Z info: DB Connection Successful
+2024-05-07T12:10:58.468Z info: Listening to port 8000
+2024-05-07T12:11:01.806Z info: DB Connection Successful
+2024-05-07T12:11:01.811Z info: Listening to port 8000
+2024-05-07T12:11:20.437Z info: DB Connection Successful
+2024-05-07T12:11:20.443Z info: Listening to port 8000
+2024-05-07T12:11:21.655Z info: DB Connection Successful
+2024-05-07T12:11:21.659Z info: Listening to port 8000
+2024-05-07T12:11:22.812Z info: DB Connection Successful
+2024-05-07T12:11:22.817Z info: Listening to port 8000
+2024-05-07T12:11:23.865Z info: DB Connection Successful
+2024-05-07T12:11:23.870Z info: Listening to port 8000
+2024-05-07T12:11:51.496Z info: DB Connection Successful
+2024-05-07T12:11:51.500Z info: Listening to port 8000
+2024-05-07T12:11:53.907Z info: DB Connection Successful
+2024-05-07T12:11:53.911Z info: Listening to port 8000
+2024-05-07T12:11:57.855Z info: DB Connection Successful
+2024-05-07T12:11:57.860Z info: Listening to port 8000
+2024-05-07T12:12:11.640Z info: DB Connection Successful
+2024-05-07T12:12:11.645Z info: Listening to port 8000
+2024-05-07T12:12:21.389Z info: DB Connection Successful
+2024-05-07T12:12:21.394Z info: Listening to port 8000
+2024-05-07T12:12:22.232Z info: DB Connection Successful
+2024-05-07T12:12:22.237Z info: Listening to port 8000
+2024-05-07T12:16:46.607Z info: DB Connection Successful
+2024-05-07T12:16:46.613Z info: Listening to port 8000
+2024-05-07T12:16:49.218Z info: DB Connection Successful
+2024-05-07T12:16:49.223Z info: Listening to port 8000
+2024-05-07T12:17:03.162Z info: DB Connection Successful
+2024-05-07T12:17:03.167Z info: Listening to port 8000
+2024-05-07T12:17:10.309Z info: DB Connection Successful
+2024-05-07T12:17:10.317Z info: Listening to port 8000
+2024-05-07T13:01:40.476Z info: DB Connection Successful
+2024-05-07T13:01:40.481Z info: Listening to port 8000
+2024-05-07T13:31:32.907Z info: DB Connection Successful
+2024-05-07T13:31:32.913Z info: Listening to port 8000
+2024-05-07T13:31:49.690Z info: DB Connection Successful
+2024-05-07T13:31:49.694Z info: Listening to port 8000
+2024-05-07T13:31:59.813Z info: DB Connection Successful
+2024-05-07T13:31:59.818Z info: Listening to port 8000
+2024-05-07T13:34:21.368Z info: DB Connection Successful
+2024-05-07T13:34:21.372Z info: Listening to port 8000
+2024-05-07T13:34:51.684Z info: DB Connection Successful
+2024-05-07T13:34:51.689Z info: Listening to port 8000
+2024-05-07T13:35:27.575Z info: DB Connection Successful
+2024-05-07T13:35:27.583Z info: Listening to port 8000
+2024-05-07T13:44:08.404Z info: DB Connection Successful
+2024-05-07T13:44:08.409Z info: Listening to port 8000
+2024-05-07T13:44:11.001Z info: DB Connection Successful
+2024-05-07T13:44:11.006Z info: Listening to port 8000
+2024-05-07T13:44:22.123Z info: DB Connection Successful
+2024-05-07T13:44:22.128Z info: Listening to port 8000
+2024-05-07T13:44:36.240Z info: DB Connection Successful
+2024-05-07T13:44:36.245Z info: Listening to port 8000
+2024-05-07T13:44:43.839Z info: DB Connection Successful
+2024-05-07T13:44:43.843Z info: Listening to port 8000
+2024-05-07T13:44:46.863Z info: DB Connection Successful
+2024-05-07T13:44:46.867Z info: Listening to port 8000
+2024-05-07T13:48:34.715Z info: DB Connection Successful
+2024-05-07T13:48:34.720Z info: Listening to port 8000
+2024-05-07T13:48:35.558Z info: DB Connection Successful
+2024-05-07T13:48:35.563Z info: Listening to port 8000
+2024-05-07T13:48:46.203Z info: DB Connection Successful
+2024-05-07T13:48:46.208Z info: Listening to port 8000
+2024-05-07T13:48:52.883Z info: DB Connection Successful
+2024-05-07T13:48:52.890Z info: Listening to port 8000
+2024-05-07T13:48:54.746Z info: DB Connection Successful
+2024-05-07T13:48:54.751Z info: Listening to port 8000
+2024-05-07T13:49:16.972Z info: DB Connection Successful
+2024-05-07T13:49:16.977Z info: Listening to port 8000
+2024-05-07T13:49:37.986Z info: DB Connection Successful
+2024-05-07T13:49:37.991Z info: Listening to port 8000
+2024-05-07T13:49:40.557Z info: DB Connection Successful
+2024-05-07T13:49:40.561Z info: Listening to port 8000
+2024-05-07T13:49:41.573Z info: DB Connection Successful
+2024-05-07T13:49:41.578Z info: Listening to port 8000
+2024-05-07T13:49:42.883Z info: DB Connection Successful
+2024-05-07T13:49:42.890Z info: Listening to port 8000
+2024-05-07T13:49:46.349Z info: DB Connection Successful
+2024-05-07T13:49:46.355Z info: Listening to port 8000
+2024-05-07T13:49:53.264Z info: DB Connection Successful
+2024-05-07T13:49:53.269Z info: Listening to port 8000
+2024-05-07T13:49:55.182Z info: DB Connection Successful
+2024-05-07T13:49:55.188Z info: Listening to port 8000
+2024-05-07T13:49:57.346Z info: DB Connection Successful
+2024-05-07T13:49:57.350Z info: Listening to port 8000
+2024-05-07T13:50:00.808Z info: DB Connection Successful
+2024-05-07T13:50:00.813Z info: Listening to port 8000
+2024-05-07T13:50:09.005Z info: DB Connection Successful
+2024-05-07T13:50:09.009Z info: Listening to port 8000
+2024-05-07T13:50:14.894Z info: DB Connection Successful
+2024-05-07T13:50:14.900Z info: Listening to port 8000
+2024-05-07T13:50:54.988Z info: DB Connection Successful
+2024-05-07T13:50:54.992Z info: Listening to port 8000
+2024-05-07T13:56:52.542Z info: DB Connection Successful
+2024-05-07T13:56:52.547Z info: Listening to port 8000
+2024-05-07T13:56:53.465Z info: DB Connection Successful
+2024-05-07T13:56:53.470Z info: Listening to port 8000
+2024-05-07T13:56:58.567Z info: DB Connection Successful
+2024-05-07T13:56:58.572Z info: Listening to port 8000
+2024-05-07T13:57:06.170Z info: DB Connection Successful
+2024-05-07T13:57:06.174Z info: Listening to port 8000
+2024-05-07T13:57:41.289Z info: DB Connection Successful
+2024-05-07T13:57:41.294Z info: Listening to port 8000
+2024-05-07T13:57:44.074Z info: DB Connection Successful
+2024-05-07T13:57:44.078Z info: Listening to port 8000
+2024-05-07T13:57:47.050Z info: DB Connection Successful
+2024-05-07T13:57:47.055Z info: Listening to port 8000
+2024-05-07T13:58:00.525Z info: DB Connection Successful
+2024-05-07T13:58:00.529Z info: Listening to port 8000
+2024-05-07T13:58:40.939Z info: DB Connection Successful
+2024-05-07T13:58:40.944Z info: Listening to port 8000
+2024-05-07T13:58:46.201Z info: DB Connection Successful
+2024-05-07T13:58:46.206Z info: Listening to port 8000
+2024-05-07T13:58:58.487Z info: DB Connection Successful
+2024-05-07T13:58:58.492Z info: Listening to port 8000
+2024-05-07T13:59:03.568Z info: DB Connection Successful
+2024-05-07T13:59:03.573Z info: Listening to port 8000
+2024-05-07T13:59:18.472Z info: DB Connection Successful
+2024-05-07T13:59:18.476Z info: Listening to port 8000
+2024-05-07T13:59:27.670Z info: DB Connection Successful
+2024-05-07T13:59:27.675Z info: Listening to port 8000
+2024-05-07T14:00:02.977Z info: DB Connection Successful
+2024-05-07T14:00:02.983Z info: Listening to port 8000
+2024-05-07T14:00:06.074Z info: DB Connection Successful
+2024-05-07T14:00:06.079Z info: Listening to port 8000
+2024-05-07T14:00:09.078Z info: DB Connection Successful
+2024-05-07T14:00:09.083Z info: Listening to port 8000
+2024-05-07T14:00:10.732Z info: DB Connection Successful
+2024-05-07T14:00:10.738Z info: Listening to port 8000
+2024-05-07T14:00:19.888Z info: DB Connection Successful
+2024-05-07T14:00:19.893Z info: Listening to port 8000
+2024-05-07T14:00:21.636Z info: DB Connection Successful
+2024-05-07T14:00:21.641Z info: Listening to port 8000
+2024-05-07T14:07:22.985Z info: DB Connection Successful
+2024-05-07T14:07:22.990Z info: Listening to port 8000

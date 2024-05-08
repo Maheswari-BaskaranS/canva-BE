@@ -1,0 +1,16 @@
+2024-05-08T04:46:19.447Z error: notNull Violation: individual.mainArticleName cannot be null,
+notNull Violation: individual.articleName cannot be null
+- SequelizeValidationError: notNull Violation: individual.mainArticleName cannot be null,
+notNull Violation: individual.articleName cannot be null
+    at InstanceValidator._validate (C:\Users\vivek\Downloads\SSM_POC (2)\node_modules\sequelize\lib\instance-validator.js:50:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async InstanceValidator._validateAndRunHooks (C:\Users\vivek\Downloads\SSM_POC (2)\node_modules\sequelize\lib\instance-validator.js:60:7)
+    at async InstanceValidator.validate (C:\Users\vivek\Downloads\SSM_POC (2)\node_modules\sequelize\lib\instance-validator.js:54:12)
+    at async individual.save (C:\Users\vivek\Downloads\SSM_POC (2)\node_modules\sequelize\lib\model.js:2426:7)
+    at async individual.create (C:\Users\vivek\Downloads\SSM_POC (2)\node_modules\sequelize\lib\model.js:1362:12)
+    at async Object.create (C:\Users\vivek\Downloads\SSM_POC (2)\src\services\individual.services.js:18:18)
+    at async individualModule.create (C:\Users\vivek\Downloads\SSM_POC (2)\src\controllers\individual.controller.js:55:3)
+2024-05-08T04:52:40.321Z error: Cannot read properties of null (reading 'mainImageId')
+- TypeError: Cannot read properties of null (reading 'mainImageId')
+    at individualModule.getAllDetails (C:\Users\vivek\Downloads\SSM_POC (2)\src\controllers\individual.controller.js:178:32)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)

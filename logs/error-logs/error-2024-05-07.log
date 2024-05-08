@@ -1,0 +1,170 @@
+2024-05-07T07:40:44.117Z error: ENOENT: no such file or directory, open 'D:\POC\src\controllers\public\assets\1715067644115_haryo-setyadi-acn5ERAeSb4-unsplash.jpg'
+- Error: ENOENT: no such file or directory, open 'D:\POC\src\controllers\public\assets\1715067644115_haryo-setyadi-acn5ERAeSb4-unsplash.jpg'
+    at async open (node:internal/fs/promises:638:25)
+    at async Object.writeFile (node:internal/fs/promises:1221:14)
+    at async mainModule.create (D:\POC\src\controllers\main.controller.js:27:3)
+2024-05-07T07:41:09.506Z error: ENOENT: no such file or directory, open 'D:\POC\src\controllers\public\assets\1715067669505_haryo-setyadi-acn5ERAeSb4-unsplash.jpg'
+- Error: ENOENT: no such file or directory, open 'D:\POC\src\controllers\public\assets\1715067669505_haryo-setyadi-acn5ERAeSb4-unsplash.jpg'
+    at async open (node:internal/fs/promises:638:25)
+    at async Object.writeFile (node:internal/fs/promises:1221:14)
+    at async mainModule.create (D:\POC\src\controllers\main.controller.js:27:3)
+2024-05-07T07:41:23.557Z error: ENOENT: no such file or directory, open 'D:\POC\src\controllers\public\assets\1715067683555_haryo-setyadi-acn5ERAeSb4-unsplash.jpg'
+- Error: ENOENT: no such file or directory, open 'D:\POC\src\controllers\public\assets\1715067683555_haryo-setyadi-acn5ERAeSb4-unsplash.jpg'
+    at async open (node:internal/fs/promises:638:25)
+    at async Object.writeFile (node:internal/fs/promises:1221:14)
+    at async mainModule.create (D:\POC\src\controllers\main.controller.js:27:3)
+2024-05-07T07:41:41.907Z error: ENOENT: no such file or directory, open 'D:\POC\public\assets\public\assets\1715067701903_haryo-setyadi-acn5ERAeSb4-unsplash.jpg'
+- Error: ENOENT: no such file or directory, open 'D:\POC\public\assets\public\assets\1715067701903_haryo-setyadi-acn5ERAeSb4-unsplash.jpg'
+    at async open (node:internal/fs/promises:638:25)
+    at async Object.writeFile (node:internal/fs/promises:1221:14)
+    at async mainModule.create (D:\POC\src\controllers\main.controller.js:27:3)
+2024-05-07T07:41:55.028Z error: ENOENT: no such file or directory, open 'D:\POC\src\public\assets\public\assets\1715067715027_haryo-setyadi-acn5ERAeSb4-unsplash.jpg'
+- Error: ENOENT: no such file or directory, open 'D:\POC\src\public\assets\public\assets\1715067715027_haryo-setyadi-acn5ERAeSb4-unsplash.jpg'
+    at async open (node:internal/fs/promises:638:25)
+    at async Object.writeFile (node:internal/fs/promises:1221:14)
+    at async mainModule.create (D:\POC\src\controllers\main.controller.js:27:3)
+2024-05-07T07:43:45.253Z error: ENOENT: no such file or directory, open 'D:\POC\public\assets\1715067825251_haryo-setyadi-acn5ERAeSb4-unsplash.jpg'
+- Error: ENOENT: no such file or directory, open 'D:\POC\public\assets\1715067825251_haryo-setyadi-acn5ERAeSb4-unsplash.jpg'
+    at async open (node:internal/fs/promises:638:25)
+    at async Object.writeFile (node:internal/fs/promises:1221:14)
+    at async mainModule.create (D:\POC\src\controllers\main.controller.js:27:3)
+2024-05-07T07:57:33.112Z error: config is not defined
+- ReferenceError: config is not defined
+    at mainModule.create (D:\POC\src\controllers\main.controller.js:27:20)
+    at Layer.handle [as handle_request] (D:\POC\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\POC\node_modules\express\lib\router\route.js:149:13)
+    at done (D:\POC\node_modules\multer\lib\make-middleware.js:45:7)
+    at indicateDone (D:\POC\node_modules\multer\lib\make-middleware.js:49:68)
+    at Multipart.<anonymous> (D:\POC\node_modules\multer\lib\make-middleware.js:166:7)
+    at Multipart.emit (node:events:520:28)
+    at emitCloseNT (node:internal/streams/destroy:147:10)
+    at process.processTicksAndRejections (node:internal/process/task_queues:81:21)
+2024-05-07T07:57:59.522Z error: ENOENT: no such file or directory, open 'D:\POC\public\assets\1715068679518_haryo-setyadi-acn5ERAeSb4-unsplash.jpg'
+- Error: ENOENT: no such file or directory, open 'D:\POC\public\assets\1715068679518_haryo-setyadi-acn5ERAeSb4-unsplash.jpg'
+    at async open (node:internal/fs/promises:638:25)
+    at async Object.writeFile (node:internal/fs/promises:1221:14)
+    at async mainModule.create (D:\POC\src\controllers\main.controller.js:30:3)
+2024-05-07T07:58:31.335Z error: ENOENT: no such file or directory, open 'D:\POC\src\public\images\1715068711331_haryo-setyadi-acn5ERAeSb4-unsplash.jpg'
+- Error: ENOENT: no such file or directory, open 'D:\POC\src\public\images\1715068711331_haryo-setyadi-acn5ERAeSb4-unsplash.jpg'
+    at async open (node:internal/fs/promises:638:25)
+    at async Object.writeFile (node:internal/fs/promises:1221:14)
+    at async mainModule.create (D:\POC\src\controllers\main.controller.js:30:3)
+2024-05-07T08:00:15.782Z error: ENOENT: no such file or directory, open 'D:\POC\src\controllers\public\images\1715068815777_haryo-setyadi-acn5ERAeSb4-unsplash.jpg'
+- Error: ENOENT: no such file or directory, open 'D:\POC\src\controllers\public\images\1715068815777_haryo-setyadi-acn5ERAeSb4-unsplash.jpg'
+    at async open (node:internal/fs/promises:638:25)
+    at async Object.writeFile (node:internal/fs/promises:1221:14)
+    at async mainModule.create (D:\POC\src\controllers\main.controller.js:30:3)
+2024-05-07T08:00:40.330Z error: ENOENT: no such file or directory, open 'D:\POC\src\public\images\1715068840328_haryo-setyadi-acn5ERAeSb4-unsplash.jpg'
+- Error: ENOENT: no such file or directory, open 'D:\POC\src\public\images\1715068840328_haryo-setyadi-acn5ERAeSb4-unsplash.jpg'
+    at async open (node:internal/fs/promises:638:25)
+    at async Object.writeFile (node:internal/fs/promises:1221:14)
+    at async mainModule.create (D:\POC\src\controllers\main.controller.js:30:3)
+2024-05-07T09:36:10.000Z error: getImages.map is not a function
+- TypeError: getImages.map is not a function
+    at mainModule.getById (D:\POC\src\controllers\main.controller.js:78:33)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-05-07T09:38:46.722Z error: mainImages.map is not a function
+- TypeError: mainImages.map is not a function
+    at mainModule.getById (D:\POC\src\controllers\main.controller.js:76:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-05-07T09:39:36.766Z error: mainImages.map is not a function
+- TypeError: mainImages.map is not a function
+    at mainModule.getById (D:\POC\src\controllers\main.controller.js:77:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-05-07T09:40:11.749Z error: mainImages.map is not a function
+- TypeError: mainImages.map is not a function
+    at mainModule.getById (D:\POC\src\controllers\main.controller.js:77:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-05-07T09:56:07.436Z error: config is not defined
+- ReferenceError: config is not defined
+    at individualModule.create (D:\POC\src\controllers\individual.controller.js:43:20)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-05-07T10:12:25.700Z error: Cannot read properties of null (reading 'mainImageId')
+- TypeError: Cannot read properties of null (reading 'mainImageId')
+    at individualModule.getAllDetails (D:\POC\src\controllers\individual.controller.js:167:32)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-05-07T10:12:40.535Z error: Cannot read properties of null (reading 'mainImageId')
+- TypeError: Cannot read properties of null (reading 'mainImageId')
+    at individualModule.getAllDetails (D:\POC\src\controllers\individual.controller.js:167:32)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-05-07T10:12:56.471Z error: Cannot read properties of null (reading 'mainImageId')
+- TypeError: Cannot read properties of null (reading 'mainImageId')
+    at individualModule.getAllDetails (D:\POC\src\controllers\individual.controller.js:167:32)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-05-07T10:14:52.125Z error: ENOENT: no such file or directory, open 'D:\POC\src\uploads\1715076892124_course5.png'
+- Error: ENOENT: no such file or directory, open 'D:\POC\src\uploads\1715076892124_course5.png'
+    at async open (node:internal/fs/promises:638:25)
+    at async Object.writeFile (node:internal/fs/promises:1221:14)
+    at async mainModule.update (D:\POC\src\controllers\main.controller.js:122:3)
+2024-05-07T10:17:14.425Z error: ENOENT: no such file or directory, unlink 'D:\POC\http:\localhost:8000\images\course2.png'
+- Error: ENOENT: no such file or directory, unlink 'D:\POC\http:\localhost:8000\images\course2.png'
+    at async Object.unlink (node:internal/fs/promises:1068:10)
+    at async mainModule.deleteById (D:\POC\src\controllers\main.controller.js:152:3)
+2024-05-07T10:19:16.529Z error: public is not defined
+- ReferenceError: public is not defined
+    at mainModule.deleteById (D:\POC\src\controllers\main.controller.js:151:25)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-05-07T10:20:34.121Z error: ENOENT: no such file or directory, unlink 'D:\POC\public\images\http:\localhost:8000\images\course2.png'
+- Error: ENOENT: no such file or directory, unlink 'D:\POC\public\images\http:\localhost:8000\images\course2.png'
+    at async Object.unlink (node:internal/fs/promises:1068:10)
+    at async mainModule.deleteById (D:\POC\src\controllers\main.controller.js:156:3)
+2024-05-07T10:21:22.214Z error: ENOENT: no such file or directory, unlink 'D:\POC\public\images\course2.png'
+- Error: ENOENT: no such file or directory, unlink 'D:\POC\public\images\course2.png'
+    at async Object.unlink (node:internal/fs/promises:1068:10)
+    at async mainModule.deleteById (D:\POC\src\controllers\main.controller.js:157:3)
+2024-05-07T10:49:58.951Z error: individualService.getAllIndividualImages is not a function
+- TypeError: individualService.getAllIndividualImages is not a function
+    at mainModule.getAll (D:\POC\src\controllers\main.controller.js:50:49)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-05-07T10:52:28.131Z error: getImage is not defined
+- ReferenceError: getImage is not defined
+    at mainModule.getById (D:\POC\src\controllers\main.controller.js:91:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-05-07T10:54:56.536Z error: getImage is not defined
+- ReferenceError: getImage is not defined
+    at mainModule.getById (D:\POC\src\controllers\main.controller.js:91:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-05-07T10:55:38.787Z error: formattedResponse is not defined
+- ReferenceError: formattedResponse is not defined
+    at mainModule.getById (D:\POC\src\controllers\main.controller.js:105:32)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-05-07T11:12:05.045Z error: getImage is not defined
+- ReferenceError: getImage is not defined
+    at mainModule.getById (D:\POC\src\controllers\main.controller.js:98:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-05-07T11:13:21.105Z error: Cannot read properties of undefined (reading 'replace')
+- TypeError: Cannot read properties of undefined (reading 'replace')
+    at mainModule.getById (D:\POC\src\controllers\main.controller.js:115:6)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-05-07T11:13:54.879Z error: Cannot read properties of undefined (reading 'replace')
+- TypeError: Cannot read properties of undefined (reading 'replace')
+    at mainModule.getById (D:\POC\src\controllers\main.controller.js:117:6)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-05-07T11:14:27.959Z error: Cannot read properties of undefined (reading 'replace')
+- TypeError: Cannot read properties of undefined (reading 'replace')
+    at mainModule.getById (D:\POC\src\controllers\main.controller.js:115:6)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-05-07T13:42:14.051Z error: notNull Violation: individual.mainArticleName cannot be null,
+notNull Violation: individual.articleName cannot be null
+- SequelizeValidationError: notNull Violation: individual.mainArticleName cannot be null,
+notNull Violation: individual.articleName cannot be null
+    at InstanceValidator._validate (D:\POC\node_modules\sequelize\lib\instance-validator.js:50:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async InstanceValidator._validateAndRunHooks (D:\POC\node_modules\sequelize\lib\instance-validator.js:60:7)
+    at async InstanceValidator.validate (D:\POC\node_modules\sequelize\lib\instance-validator.js:54:12)
+    at async individual.save (D:\POC\node_modules\sequelize\lib\model.js:2426:7)
+    at async individual.create (D:\POC\node_modules\sequelize\lib\model.js:1362:12)
+    at async Object.create (D:\POC\src\services\individual.services.js:16:18)
+    at async individualModule.create (D:\POC\src\controllers\individual.controller.js:45:3)
+2024-05-07T13:43:22.248Z error: notNull Violation: individual.mainArticleName cannot be null,
+notNull Violation: individual.articleName cannot be null
+- SequelizeValidationError: notNull Violation: individual.mainArticleName cannot be null,
+notNull Violation: individual.articleName cannot be null
+    at InstanceValidator._validate (D:\POC\node_modules\sequelize\lib\instance-validator.js:50:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async InstanceValidator._validateAndRunHooks (D:\POC\node_modules\sequelize\lib\instance-validator.js:60:7)
+    at async InstanceValidator.validate (D:\POC\node_modules\sequelize\lib\instance-validator.js:54:12)
+    at async individual.save (D:\POC\node_modules\sequelize\lib\model.js:2426:7)
+    at async individual.create (D:\POC\node_modules\sequelize\lib\model.js:1362:12)
+    at async Object.create (D:\POC\src\services\individual.services.js:16:18)
+    at async individualModule.create (D:\POC\src\controllers\individual.controller.js:45:3)

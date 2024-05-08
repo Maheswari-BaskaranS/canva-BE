@@ -1,0 +1,26 @@
+2024-05-06T05:23:07.641Z error: tagsArray is not defined
+- ReferenceError: tagsArray is not defined
+    at individualModule.getById (D:\POC\src\controllers\individual.controller.js:141:4)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-05-06T05:23:23.723Z error: tagsArray is not defined
+- ReferenceError: tagsArray is not defined
+    at individualModule.getById (D:\POC\src\controllers\individual.controller.js:141:4)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-05-06T05:25:23.951Z error: Cannot read properties of undefined (reading 'originalname')
+- TypeError: Cannot read properties of undefined (reading 'originalname')
+    at individualModule.update (D:\POC\src\controllers\individual.controller.js:184:26)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-05-06T05:26:08.773Z error: Cannot read properties of undefined (reading 'originalname')
+- TypeError: Cannot read properties of undefined (reading 'originalname')
+    at individualModule.update (D:\POC\src\controllers\individual.controller.js:185:26)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-05-06T13:45:16.857Z error: invalid input syntax for type integer: ""
+- Error
+    at Query.run (D:\POC\node_modules\sequelize\lib\dialects\postgres\query.js:50:25)
+    at D:\POC\node_modules\sequelize\lib\sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async PostgresQueryInterface.insert (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-interface.js:308:21)
+    at async main.save (D:\POC\node_modules\sequelize\lib\model.js:2490:35)
+    at async main.create (D:\POC\node_modules\sequelize\lib\model.js:1362:12)
+    at async Object.createMain (D:\POC\src\services\main.services.js:5:23)
+    at async mainModule.create (D:\POC\src\controllers\main.controller.js:27:3)

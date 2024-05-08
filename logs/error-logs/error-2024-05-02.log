@@ -1,0 +1,460 @@
+2024-05-02T07:08:12.164Z error: Cannot access 'getImage' before initialization
+- ReferenceError: Cannot access 'getImage' before initialization
+    at D:\POC\src\controllers\main.controller.js:48:15
+    at Array.map (<anonymous>)
+    at mainModule.getAll (D:\POC\src\controllers\main.controller.js:46:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-05-02T07:09:51.200Z error: Cannot access 'getImage' before initialization
+- ReferenceError: Cannot access 'getImage' before initialization
+    at D:\POC\src\controllers\main.controller.js:48:15
+    at Array.map (<anonymous>)
+    at mainModule.getAll (D:\POC\src\controllers\main.controller.js:46:31)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-05-02T07:19:02.384Z error: main is not defined
+- ReferenceError: main is not defined
+    at Object.getById (D:\POC\src\services\individual.services.js:39:13)
+    at individualModule.getById (D:\POC\src\controllers\individual.controller.js:105:44)
+    at Layer.handle [as handle_request] (D:\POC\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\POC\node_modules\express\lib\router\route.js:149:13)
+    at D:\POC\src\middleware\validate.js:25:12
+    at Layer.handle [as handle_request] (D:\POC\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\POC\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\POC\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\POC\node_modules\express\lib\router\layer.js:95:5)
+    at D:\POC\node_modules\express\lib\router\index.js:284:15
+2024-05-02T07:25:33.916Z error: WHERE parameter "id" has invalid "undefined" value
+- Error: WHERE parameter "id" has invalid "undefined" value
+    at PostgresQueryGenerator.whereItemQuery (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1743:13)
+    at D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1734:25
+    at Array.forEach (<anonymous>)
+    at PostgresQueryGenerator.whereItemsQuery (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1732:35)
+    at D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1840:30
+    at Array.map (<anonymous>)
+    at PostgresQueryGenerator._whereGroupBind (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1839:21)
+    at PostgresQueryGenerator.whereItemQuery (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1790:19)
+    at D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1734:25
+    at Array.forEach (<anonymous>)
+2024-05-02T07:32:23.989Z error: WHERE parameter "id" has invalid "undefined" value
+- Error: WHERE parameter "id" has invalid "undefined" value
+    at PostgresQueryGenerator.whereItemQuery (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1743:13)
+    at D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1734:25
+    at Array.forEach (<anonymous>)
+    at PostgresQueryGenerator.whereItemsQuery (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1732:35)
+    at D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1840:30
+    at Array.map (<anonymous>)
+    at PostgresQueryGenerator._whereGroupBind (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1839:21)
+    at PostgresQueryGenerator.whereItemQuery (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1790:19)
+    at D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1734:25
+    at Array.forEach (<anonymous>)
+2024-05-02T07:35:08.479Z error: WHERE parameter "id" has invalid "undefined" value
+- Error: WHERE parameter "id" has invalid "undefined" value
+    at PostgresQueryGenerator.whereItemQuery (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1743:13)
+    at D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1734:25
+    at Array.forEach (<anonymous>)
+    at PostgresQueryGenerator.whereItemsQuery (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1732:35)
+    at D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1840:30
+    at Array.map (<anonymous>)
+    at PostgresQueryGenerator._whereGroupBind (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1839:21)
+    at PostgresQueryGenerator.whereItemQuery (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1790:19)
+    at D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1734:25
+    at Array.forEach (<anonymous>)
+2024-05-02T07:35:43.172Z error: WHERE parameter "id" has invalid "undefined" value
+- Error: WHERE parameter "id" has invalid "undefined" value
+    at PostgresQueryGenerator.whereItemQuery (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1743:13)
+    at D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1734:25
+    at Array.forEach (<anonymous>)
+    at PostgresQueryGenerator.whereItemsQuery (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1732:35)
+    at D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1840:30
+    at Array.map (<anonymous>)
+    at PostgresQueryGenerator._whereGroupBind (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1839:21)
+    at PostgresQueryGenerator.whereItemQuery (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1790:19)
+    at D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1734:25
+    at Array.forEach (<anonymous>)
+2024-05-02T07:36:24.439Z error: Cannot read properties of undefined (reading 'id')
+- TypeError: Cannot read properties of undefined (reading 'id')
+    at individualModule.getById (D:\POC\src\controllers\individual.controller.js:113:29)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-05-02T07:36:33.882Z error: Cannot read properties of undefined (reading 'id')
+- TypeError: Cannot read properties of undefined (reading 'id')
+    at individualModule.getById (D:\POC\src\controllers\individual.controller.js:113:29)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-05-02T07:38:35.869Z error: Cannot access 'mainImageId' before initialization
+- ReferenceError: Cannot access 'mainImageId' before initialization
+    at individualModule.getById (D:\POC\src\controllers\individual.controller.js:113:50)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-05-02T08:11:18.976Z error: individualService.search is not a function
+- TypeError: individualService.search is not a function
+    at individualModule.getAll (D:\POC\src\controllers\individual.controller.js:86:52)
+    at Layer.handle [as handle_request] (D:\POC\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\POC\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\POC\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\POC\node_modules\express\lib\router\layer.js:95:5)
+    at D:\POC\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\POC\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\POC\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\POC\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\POC\node_modules\express\lib\router\index.js:47:12)
+2024-05-02T08:11:21.857Z error: individualService.search is not a function
+- TypeError: individualService.search is not a function
+    at individualModule.getAll (D:\POC\src\controllers\individual.controller.js:86:52)
+    at Layer.handle [as handle_request] (D:\POC\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\POC\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\POC\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\POC\node_modules\express\lib\router\layer.js:95:5)
+    at D:\POC\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\POC\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\POC\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\POC\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\POC\node_modules\express\lib\router\index.js:47:12)
+2024-05-02T08:11:59.066Z error: Op is not defined
+- ReferenceError: Op is not defined
+    at individualModule.getAll (D:\POC\src\controllers\individual.controller.js:75:16)
+    at Layer.handle [as handle_request] (D:\POC\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\POC\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\POC\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\POC\node_modules\express\lib\router\layer.js:95:5)
+    at D:\POC\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\POC\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\POC\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\POC\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\POC\node_modules\express\lib\router\index.js:47:12)
+2024-05-02T08:12:38.888Z error: values.map is not a function
+- TypeError: values.map is not a function
+    at ARRAY._value (D:\POC\node_modules\sequelize\lib\dialects\postgres\data-types.js:379:19)
+    at ARRAY._stringify (D:\POC\node_modules\sequelize\lib\dialects\postgres\data-types.js:393:29)
+    at ARRAY.stringify (D:\POC\node_modules\sequelize\lib\data-types.js:22:19)
+    at PostgresQueryGenerator.escape (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:756:30)
+    at PostgresQueryGenerator._whereParseSingleValueObject (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:2057:41)
+    at PostgresQueryGenerator.whereItemQuery (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1813:21)
+    at D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1734:25
+    at Array.forEach (<anonymous>)
+    at PostgresQueryGenerator.whereItemsQuery (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1732:35)
+    at D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1840:30
+2024-05-02T08:12:59.285Z error: operator does not exist: integer ~~* unknown
+- Error
+    at Query.run (D:\POC\node_modules\sequelize\lib\dialects\postgres\query.js:50:25)
+    at D:\POC\node_modules\sequelize\lib\sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async PostgresQueryInterface.select (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-interface.js:407:12)
+    at async individual.findAll (D:\POC\node_modules\sequelize\lib\model.js:1140:21)
+    at async Object.getAll (D:\POC\src\services\individual.services.js:30:18)
+    at async individualModule.getAll (D:\POC\src\controllers\individual.controller.js:87:28)
+2024-05-02T08:14:07.462Z error: values.map is not a function
+- TypeError: values.map is not a function
+    at ARRAY._value (D:\POC\node_modules\sequelize\lib\dialects\postgres\data-types.js:379:19)
+    at ARRAY._stringify (D:\POC\node_modules\sequelize\lib\dialects\postgres\data-types.js:393:29)
+    at ARRAY.stringify (D:\POC\node_modules\sequelize\lib\data-types.js:22:19)
+    at PostgresQueryGenerator.escape (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:756:30)
+    at PostgresQueryGenerator._whereParseSingleValueObject (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:2057:41)
+    at PostgresQueryGenerator.whereItemQuery (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1813:21)
+    at D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1734:25
+    at Array.forEach (<anonymous>)
+    at PostgresQueryGenerator.whereItemsQuery (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1732:35)
+    at D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1840:30
+2024-05-02T10:02:40.085Z error: operator does not exist: integer ~~* unknown
+- Error
+    at Query.run (D:\POC\node_modules\sequelize\lib\dialects\postgres\query.js:50:25)
+    at D:\POC\node_modules\sequelize\lib\sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async PostgresQueryInterface.select (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-interface.js:407:12)
+    at async individual.findAll (D:\POC\node_modules\sequelize\lib\model.js:1140:21)
+    at async Object.getAll (D:\POC\src\services\individual.services.js:30:18)
+    at async individualModule.getAll (D:\POC\src\controllers\individual.controller.js:87:28)
+2024-05-02T10:07:06.908Z error: values.map is not a function
+- TypeError: values.map is not a function
+    at ARRAY._value (D:\POC\node_modules\sequelize\lib\dialects\postgres\data-types.js:379:19)
+    at ARRAY._stringify (D:\POC\node_modules\sequelize\lib\dialects\postgres\data-types.js:393:29)
+    at ARRAY.stringify (D:\POC\node_modules\sequelize\lib\data-types.js:22:19)
+    at PostgresQueryGenerator.escape (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:756:30)
+    at PostgresQueryGenerator._whereParseSingleValueObject (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:2057:41)
+    at PostgresQueryGenerator.whereItemQuery (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1813:21)
+    at D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1734:25
+    at Array.forEach (<anonymous>)
+    at PostgresQueryGenerator.whereItemsQuery (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1732:35)
+    at D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1840:30
+2024-05-02T10:09:28.181Z error: values.map is not a function
+- TypeError: values.map is not a function
+    at ARRAY._value (D:\POC\node_modules\sequelize\lib\dialects\postgres\data-types.js:379:19)
+    at ARRAY._stringify (D:\POC\node_modules\sequelize\lib\dialects\postgres\data-types.js:393:29)
+    at ARRAY.stringify (D:\POC\node_modules\sequelize\lib\data-types.js:22:19)
+    at PostgresQueryGenerator.escape (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:756:30)
+    at PostgresQueryGenerator._whereParseSingleValueObject (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:2057:41)
+    at PostgresQueryGenerator.whereItemQuery (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1813:21)
+    at D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1734:25
+    at Array.forEach (<anonymous>)
+    at PostgresQueryGenerator.whereItemsQuery (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1732:35)
+    at D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1840:30
+2024-05-02T10:15:25.508Z error: values.map is not a function
+- TypeError: values.map is not a function
+    at ARRAY._value (D:\POC\node_modules\sequelize\lib\dialects\postgres\data-types.js:379:19)
+    at ARRAY._stringify (D:\POC\node_modules\sequelize\lib\dialects\postgres\data-types.js:393:29)
+    at ARRAY.stringify (D:\POC\node_modules\sequelize\lib\data-types.js:22:19)
+    at PostgresQueryGenerator.escape (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:756:30)
+    at PostgresQueryGenerator._whereParseSingleValueObject (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:2057:41)
+    at PostgresQueryGenerator.whereItemQuery (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1813:21)
+    at D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1734:25
+    at Array.forEach (<anonymous>)
+    at PostgresQueryGenerator.whereItemsQuery (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1732:35)
+    at D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1840:30
+2024-05-02T10:19:33.991Z error: operator does not exist: character varying[] ~~* character varying[]
+- Error
+    at Query.run (D:\POC\node_modules\sequelize\lib\dialects\postgres\query.js:50:25)
+    at D:\POC\node_modules\sequelize\lib\sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async PostgresQueryInterface.select (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-interface.js:407:12)
+    at async individual.findAll (D:\POC\node_modules\sequelize\lib\model.js:1140:21)
+    at async Object.getAll (D:\POC\src\services\individual.services.js:30:18)
+    at async individualModule.getAll (D:\POC\src\controllers\individual.controller.js:84:28)
+2024-05-02T10:21:20.947Z error: sequelize is not defined
+- ReferenceError: sequelize is not defined
+    at individualModule.getAll (D:\POC\src\controllers\individual.controller.js:82:8)
+    at Layer.handle [as handle_request] (D:\POC\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\POC\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\POC\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\POC\node_modules\express\lib\router\layer.js:95:5)
+    at D:\POC\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\POC\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\POC\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\POC\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\POC\node_modules\express\lib\router\index.js:47:12)
+2024-05-02T10:22:53.052Z error: Cannot read properties of undefined (reading 'literal')
+- TypeError: Cannot read properties of undefined (reading 'literal')
+    at individualModule.getAll (D:\POC\src\controllers\individual.controller.js:82:18)
+    at Layer.handle [as handle_request] (D:\POC\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\POC\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\POC\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\POC\node_modules\express\lib\router\layer.js:95:5)
+    at D:\POC\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\POC\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\POC\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\POC\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\POC\node_modules\express\lib\router\index.js:47:12)
+2024-05-02T10:24:07.910Z error: Invalid value { [Symbol(iLike)]: '%Pants%' }
+- Error: Invalid value { [Symbol(iLike)]: '%Pants%' }
+    at Object.escape (D:\POC\node_modules\sequelize\lib\sql-string.js:53:11)
+    at Object.simpleEscape [as escape] (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:755:54)
+    at ARRAY.<anonymous> (D:\POC\node_modules\sequelize\lib\dialects\postgres\data-types.js:389:22)
+    at Array.map (<anonymous>)
+    at ARRAY._value (D:\POC\node_modules\sequelize\lib\dialects\postgres\data-types.js:379:19)
+    at ARRAY._stringify (D:\POC\node_modules\sequelize\lib\dialects\postgres\data-types.js:393:29)
+    at ARRAY.stringify (D:\POC\node_modules\sequelize\lib\data-types.js:22:19)
+    at PostgresQueryGenerator.escape (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:756:30)
+    at PostgresQueryGenerator._whereParseSingleValueObject (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:2057:41)
+    at PostgresQueryGenerator.whereItemQuery (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1813:21)
+2024-05-02T10:24:24.726Z error: Invalid value { [Symbol(iLike)]: '%Pan%' }
+- Error: Invalid value { [Symbol(iLike)]: '%Pan%' }
+    at Object.escape (D:\POC\node_modules\sequelize\lib\sql-string.js:53:11)
+    at Object.simpleEscape [as escape] (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:755:54)
+    at ARRAY.<anonymous> (D:\POC\node_modules\sequelize\lib\dialects\postgres\data-types.js:389:22)
+    at Array.map (<anonymous>)
+    at ARRAY._value (D:\POC\node_modules\sequelize\lib\dialects\postgres\data-types.js:379:19)
+    at ARRAY._stringify (D:\POC\node_modules\sequelize\lib\dialects\postgres\data-types.js:393:29)
+    at ARRAY.stringify (D:\POC\node_modules\sequelize\lib\data-types.js:22:19)
+    at PostgresQueryGenerator.escape (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:756:30)
+    at PostgresQueryGenerator._whereParseSingleValueObject (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:2057:41)
+    at PostgresQueryGenerator.whereItemQuery (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1813:21)
+2024-05-02T10:27:17.523Z error: values.map is not a function
+- TypeError: values.map is not a function
+    at ARRAY._value (D:\POC\node_modules\sequelize\lib\dialects\postgres\data-types.js:379:19)
+    at ARRAY._stringify (D:\POC\node_modules\sequelize\lib\dialects\postgres\data-types.js:393:29)
+    at ARRAY.stringify (D:\POC\node_modules\sequelize\lib\data-types.js:22:19)
+    at PostgresQueryGenerator.escape (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:756:30)
+    at PostgresQueryGenerator._whereParseSingleValueObject (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:2057:41)
+    at PostgresQueryGenerator.whereItemQuery (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1813:21)
+    at D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1734:25
+    at Array.forEach (<anonymous>)
+    at PostgresQueryGenerator.whereItemsQuery (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1732:35)
+    at D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1840:30
+2024-05-02T10:27:39.734Z error: operator does not exist: character varying[] ~~ character varying[]
+- Error
+    at Query.run (D:\POC\node_modules\sequelize\lib\dialects\postgres\query.js:50:25)
+    at D:\POC\node_modules\sequelize\lib\sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async PostgresQueryInterface.select (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-interface.js:407:12)
+    at async individual.findAll (D:\POC\node_modules\sequelize\lib\model.js:1140:21)
+    at async Object.getAll (D:\POC\src\services\individual.services.js:30:18)
+    at async individualModule.getAll (D:\POC\src\controllers\individual.controller.js:84:28)
+2024-05-02T10:29:11.652Z error: values.map is not a function
+- TypeError: values.map is not a function
+    at ARRAY._value (D:\POC\node_modules\sequelize\lib\dialects\postgres\data-types.js:379:19)
+    at ARRAY._stringify (D:\POC\node_modules\sequelize\lib\dialects\postgres\data-types.js:393:29)
+    at ARRAY.stringify (D:\POC\node_modules\sequelize\lib\data-types.js:22:19)
+    at PostgresQueryGenerator.escape (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:756:30)
+    at PostgresQueryGenerator._whereParseSingleValueObject (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:2057:41)
+    at PostgresQueryGenerator.whereItemQuery (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1813:21)
+    at D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1734:25
+    at Array.forEach (<anonymous>)
+    at PostgresQueryGenerator.whereItemsQuery (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1732:35)
+    at D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1840:30
+2024-05-02T10:37:34.955Z error: operator does not exist: character varying[] ~* character varying[]
+- Error
+    at Query.run (D:\POC\node_modules\sequelize\lib\dialects\postgres\query.js:50:25)
+    at D:\POC\node_modules\sequelize\lib\sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async PostgresQueryInterface.select (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-interface.js:407:12)
+    at async individual.findAll (D:\POC\node_modules\sequelize\lib\model.js:1140:21)
+    at async Object.getAll (D:\POC\src\services\individual.services.js:30:18)
+    at async individualModule.getAll (D:\POC\src\controllers\individual.controller.js:91:28)
+2024-05-02T10:41:39.669Z error: operator does not exist: character varying[] ~~* character varying
+- Error
+    at Query.run (D:\POC\node_modules\sequelize\lib\dialects\postgres\query.js:50:25)
+    at D:\POC\node_modules\sequelize\lib\sequelize.js:315:28
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async PostgresQueryInterface.select (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-interface.js:407:12)
+    at async individual.findAll (D:\POC\node_modules\sequelize\lib\model.js:1140:21)
+    at async Object.getAll (D:\POC\src\services\individual.services.js:30:18)
+    at async individualModule.getAll (D:\POC\src\controllers\individual.controller.js:91:28)
+2024-05-02T11:03:00.899Z error: cropImage.tags.replace is not a function
+- TypeError: cropImage.tags.replace is not a function
+    at D:\POC\src\controllers\individual.controller.js:86:31
+    at Array.map (<anonymous>)
+    at individualModule.getAll (D:\POC\src\controllers\individual.controller.js:84:43)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-05-02T11:04:50.310Z error: cropImage.tags.replace is not a function
+- TypeError: cropImage.tags.replace is not a function
+    at D:\POC\src\controllers\individual.controller.js:86:31
+    at Array.map (<anonymous>)
+    at individualModule.getAll (D:\POC\src\controllers\individual.controller.js:84:43)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-05-02T11:05:45.914Z error: cropImage.tags.replace is not a function
+- TypeError: cropImage.tags.replace is not a function
+    at D:\POC\src\controllers\individual.controller.js:87:31
+    at Array.map (<anonymous>)
+    at individualModule.getAll (D:\POC\src\controllers\individual.controller.js:85:43)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-05-02T11:09:12.975Z error: cropImage.tags.replace is not a function
+- TypeError: cropImage.tags.replace is not a function
+    at D:\POC\src\controllers\individual.controller.js:87:31
+    at Array.map (<anonymous>)
+    at individualModule.getAll (D:\POC\src\controllers\individual.controller.js:85:43)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-05-02T11:12:12.413Z error: individualService.search is not a function
+- TypeError: individualService.search is not a function
+    at individualModule.getAll (D:\POC\src\controllers\individual.controller.js:78:52)
+    at Layer.handle [as handle_request] (D:\POC\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\POC\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\POC\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\POC\node_modules\express\lib\router\layer.js:95:5)
+    at D:\POC\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\POC\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\POC\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\POC\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\POC\node_modules\express\lib\router\index.js:47:12)
+2024-05-02T11:13:54.164Z error: cropImage.tags.replace is not a function
+- TypeError: cropImage.tags.replace is not a function
+    at D:\POC\src\controllers\individual.controller.js:73:31
+    at Array.map (<anonymous>)
+    at individualModule.getAll (D:\POC\src\controllers\individual.controller.js:71:43)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-05-02T11:14:30.656Z error: cropImage.tags.replace is not a function
+- TypeError: cropImage.tags.replace is not a function
+    at D:\POC\src\controllers\individual.controller.js:73:31
+    at Array.map (<anonymous>)
+    at individualModule.getAll (D:\POC\src\controllers\individual.controller.js:71:43)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-05-02T11:15:00.067Z error: croppedDetails is not defined
+- ReferenceError: croppedDetails is not defined
+    at individualModule.getAll (D:\POC\src\controllers\individual.controller.js:90:32)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-05-02T11:15:17.407Z error: croppedDetails is not defined
+- ReferenceError: croppedDetails is not defined
+    at individualModule.getAll (D:\POC\src\controllers\individual.controller.js:90:32)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-05-02T11:15:58.921Z error: tags is not defined
+- ReferenceError: tags is not defined
+    at D:\POC\src\controllers\individual.controller.js:83:11
+    at Array.map (<anonymous>)
+    at individualModule.getAll (D:\POC\src\controllers\individual.controller.js:72:43)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-05-02T11:59:10.834Z error: WHERE parameter "color" has invalid "undefined" value
+- Error: WHERE parameter "color" has invalid "undefined" value
+    at PostgresQueryGenerator.whereItemQuery (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1743:13)
+    at D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1734:25
+    at Array.forEach (<anonymous>)
+    at PostgresQueryGenerator.whereItemsQuery (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1732:35)
+    at D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1840:30
+    at Array.map (<anonymous>)
+    at PostgresQueryGenerator._whereGroupBind (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1839:21)
+    at PostgresQueryGenerator.whereItemQuery (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1790:19)
+    at D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1734:25
+    at Array.forEach (<anonymous>)
+2024-05-02T12:05:41.227Z error: WHERE parameter "color" has invalid "undefined" value
+- Error: WHERE parameter "color" has invalid "undefined" value
+    at PostgresQueryGenerator.whereItemQuery (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1743:13)
+    at D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1734:25
+    at Array.forEach (<anonymous>)
+    at PostgresQueryGenerator.whereItemsQuery (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1732:35)
+    at D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1840:30
+    at Array.map (<anonymous>)
+    at PostgresQueryGenerator._whereGroupBind (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1839:21)
+    at PostgresQueryGenerator.whereItemQuery (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1790:19)
+    at D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1734:25
+    at Array.forEach (<anonymous>)
+2024-05-02T12:05:48.169Z error: WHERE parameter "color" has invalid "undefined" value
+- Error: WHERE parameter "color" has invalid "undefined" value
+    at PostgresQueryGenerator.whereItemQuery (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1743:13)
+    at D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1734:25
+    at Array.forEach (<anonymous>)
+    at PostgresQueryGenerator.whereItemsQuery (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1732:35)
+    at D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1840:30
+    at Array.map (<anonymous>)
+    at PostgresQueryGenerator._whereGroupBind (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1839:21)
+    at PostgresQueryGenerator.whereItemQuery (D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1790:19)
+    at D:\POC\node_modules\sequelize\lib\dialects\abstract\query-generator.js:1734:25
+    at Array.forEach (<anonymous>)
+2024-05-02T13:27:24.980Z error: Cannot read properties of undefined (reading 'originalname')
+- TypeError: Cannot read properties of undefined (reading 'originalname')
+    at individualModule.update (D:\POC\src\controllers\individual.controller.js:175:26)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-05-02T13:28:05.024Z error: Cannot read properties of undefined (reading 'originalname')
+- TypeError: Cannot read properties of undefined (reading 'originalname')
+    at individualModule.update (D:\POC\src\controllers\individual.controller.js:176:26)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-05-02T14:01:47.159Z error: individualService.search is not a function
+- TypeError: individualService.search is not a function
+    at individualModule.getAll (D:\POC\src\controllers\individual.controller.js:79:52)
+    at Layer.handle [as handle_request] (D:\POC\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\POC\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\POC\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\POC\node_modules\express\lib\router\layer.js:95:5)
+    at D:\POC\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\POC\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\POC\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\POC\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\POC\node_modules\express\lib\router\index.js:47:12)
+2024-05-02T14:02:06.881Z error: Op is not defined
+- ReferenceError: Op is not defined
+    at individualModule.getAll (D:\POC\src\controllers\individual.controller.js:73:16)
+    at Layer.handle [as handle_request] (D:\POC\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\POC\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\POC\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\POC\node_modules\express\lib\router\layer.js:95:5)
+    at D:\POC\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\POC\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\POC\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\POC\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\POC\node_modules\express\lib\router\index.js:47:12)
+2024-05-02T14:02:10.111Z error: Op is not defined
+- ReferenceError: Op is not defined
+    at individualModule.getAll (D:\POC\src\controllers\individual.controller.js:73:16)
+    at Layer.handle [as handle_request] (D:\POC\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\POC\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\POC\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\POC\node_modules\express\lib\router\layer.js:95:5)
+    at D:\POC\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\POC\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\POC\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\POC\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\POC\node_modules\express\lib\router\index.js:47:12)
+2024-05-02T14:02:49.498Z error: Op is not defined
+- ReferenceError: Op is not defined
+    at individualModule.getAll (D:\POC\src\controllers\individual.controller.js:73:16)
+    at Layer.handle [as handle_request] (D:\POC\node_modules\express\lib\router\layer.js:95:5)
+    at next (D:\POC\node_modules\express\lib\router\route.js:149:13)
+    at Route.dispatch (D:\POC\node_modules\express\lib\router\route.js:119:3)
+    at Layer.handle [as handle_request] (D:\POC\node_modules\express\lib\router\layer.js:95:5)
+    at D:\POC\node_modules\express\lib\router\index.js:284:15
+    at Function.process_params (D:\POC\node_modules\express\lib\router\index.js:346:12)
+    at next (D:\POC\node_modules\express\lib\router\index.js:280:10)
+    at Function.handle (D:\POC\node_modules\express\lib\router\index.js:175:3)
+    at router (D:\POC\node_modules\express\lib\router\index.js:47:12)
